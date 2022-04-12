@@ -1,0 +1,4 @@
+.foo table {
+    table-layout: fixed;
+    width: 100%; /* must have this set */
+}

@@ -1,0 +1,170 @@
+{
+  "lang": "en",
+  "langSelector": {
+    "fr": false,
+    "en": true
+  },
+  "profileEditor": {
+    "anonymous": "Anony 🐁",
+    "email_sign_in": "Email Sign In",
+    "crash_test": "Crash test",
+    "save": "Save",
+    "cancel": "Cancel",
+    "ok": "Ok",
+    "delete": "Delete",
+    "address": "Address",
+    "address1": "Address 1",
+    "address2": "Address 2",
+    "city": "City",
+    "country_sub": "Province / State",
+    "postal": "Postal Code",
+    "country": "Country",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "companyName": "Company name",
+    "email": "Email",
+    "phone": "Phone"
+  },
+  "header": {
+    "fr": "Français",
+    "en": "English"
+  },
+  "reserve": {
+    "title": "Reservation Form | Ramasse.ca",
+    "pleaseWait": "Please wait...",
+    "morning": "Morning",
+    "afternoon": "Afternoon",
+    "evening": "Evening",
+    "contactDetails": "Contact Details",
+    "fullName": "Full Name",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Phone",
+    "addressHeader": "Service Address",
+    "address1": "Address 1",
+    "address2": "Address 2",
+    "city": "City",
+    "postalCode": "Postal Code",
+    "required": {
+      "generic": "Required",
+      "email": "Valid email address required",
+      "phone": "Valid phone number required",
+      "postal": "Valid Canadian postal code required"
+    },
+    "nav": {
+      "language": "[FR]",
+      "href": "/fr/reserve"
+    },
+    "stepService": {
+      "header": "Which service is right for you?"
+    },
+    "collectionCard": {
+      "title": "Collection Services",
+      "subtitle": "Hassle free!",
+      "text": "We offer an unmatched collection service, whether it is for residential, commercial or industrial. We'll collect your junk quickly and hassle-free.",
+      "button": "Schedule a pick-up"
+    },
+    "containerCard": {
+      "title": "Container Rental Services",
+      "subtitle": "Perfect for contractors",
+      "text": "We offer rental containers of different dimensions for all your residential, commercial and industrial needs. 10, 14, 20, and 40 yard containers available.",
+      "button": "Rent a container"
+    },
+    "stepSchedule": {
+      "calLoading": "[Calendar loading]",
+      "back": "Back to Service selection"
+    },
+    "stepContactAddress": {
+      "submitButton": "Review"
+    },
+    "stepRecap": {
+      "header": "Review",
+      "editButton": "Edit",
+      "bookButton": "Get an estimate"
+    },
+    "thanks": {
+      "title": "Thank you!",
+      "subtext": "We'll be in touch soon to finalize your order.",
+      "questions": "Questions? Give us a call!"
+    }
+  },
+  "index": {
+    "title": "Collection and container rental | Ramasse.ca",
+    "ramasseCa": "RAMASSE.CA",
+    "nav": {
+      "services": "OUR SERVICES",
+      "what": "WHAT WE PICK UP",
+      "about": "ABOUT",
+      "toggle": {
+        "language": "[FR]",
+        "href": "/fr/index.html"
+      }
+    },
+    "button": {
+      "reserve": "RESERVE ON-LINE",
+      "callUs": "CALL US",
+      "phoneNumber": "1-800-RAMASSE",
+      "collection": {
+        "subject": "Collection",
+        "body": "Leave us your e-mail address and (or) phone number, and we'll get back to you as soon as possible. Thank you."
+      },
+      "rental": {
+        "subject": "Container rental",
+        "body": "Leave us your e-mail address and (or) phone number, and we'll get back to you as soon as possible. Thank you."
+      }
+    },
+    "homepage": {
+      "header": "We&nbsppick&nbspup everything&nbsp!",
+      "subtext": "We collect furniture, appliances, bulky items, construction debris, junk and much more."
+    },
+    "service": {
+      "header": "Our Services",
+      "collection": {
+        "header": "Collection",
+        "body": "We offer an unmatched collection service, whether it is for residential, commercial or industrial. We'll collect your junk quickly and hassle-free.",
+        "action": "Reserve"
+      },
+      "rental": {
+        "header": "Container rental",
+        "body": "We offer rental containers of different dimensions for all your residential, commercial and industrial needs. 10, 14, 20, and 40 yard containers available.",
+        "action": "Rent"
+      }
+    },
+    "what": {
+      "headerA": "We pick up ",
+      "headerB": "EVERYTHING",
+      "residential": {
+        "title": "Residential",
+        "description": "We collect your undesirable furniture and bulky objects."
+      },
+      "appliances": {
+        "title": "Appliances",
+        "description": "We collect appliances. Regardless of the floor, no worries! Our team will collect them easily."
+      },
+      "commercial": {
+        "title": "Commercial",
+        "description": "We collect office furniture and equipment, hassle-free."
+      },
+      "construction": {
+        "title": "Construction",
+        "description": "We also collect all your construction debris."
+      }
+    },
+    "about": {
+      "header": "About",
+      "p1B": " is a young Quebec-based enterprise, a dynamic team who works hard in order to embellish the environment.",
+      "p2": "Concerned and protective of the environment, and thanks to our very own sorting center, our goal is to become the leaders in collection and recycling in the province.",
+      "p3": "We donate to charity reusable articles in order to give a second life to your furniture. We believe it is time to act, to make the planet a better place to live."
+    },
+    "footer": {
+      "reach": "Reach us",
+      "questions": "You have questions or comments?",
+      "address1": "10800, avenue Cantin",
+      "address2": "Montreal-North, PQ H1G 6P7",
+      "email": "info@ramasse.ca",
+      "phone": "1-800-RAMASSE",
+      "zones": "Service Zones"
+    }
+  }
+}

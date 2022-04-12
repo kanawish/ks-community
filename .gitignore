@@ -1,0 +1,66 @@
+# Mac junk
+Thumbs.db
+.DS_Store
+
+# Jetbrains local
+.idea/
+
+# Build artefacts
+node_modules/
+out/
+build
+
+# Local config
+.netlify
+
+# Local gradle
+.gradle
+
+# VIM
+*.swp
+firebase/emu-data
+.runtimeconfig.json
+env_vars.sh
+
+#clikt-scripts/tmp
+
+######### Tentative iOS stuff from https://www.toptal.com/developers/gitignore/api/swift,xcode
+
+## User settings
+xcuserdata/
+
+## Obj-C/Swift specific
+*.hmap
+
+## App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+.build/
+
+# Code Injection
+# After new code Injection tools there's a generated folder /iOSInjectionProject
+# https://github.com/johnno1962/injectionforxcode
+
+iOSInjectionProject/
+
+### Xcode Patch ###
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
+**/xcshareddata/WorkspaceSettings.xcsettings
+
+yarn.lock
+core/jsApp/externals
+local.properties
+google-services.json
+fbConfig.json
+.firebaserc
+emu-data/

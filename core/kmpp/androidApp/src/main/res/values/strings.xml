@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="anonymous">Anony 🐁</string>
+    <string name="email_sign_in">Email Sign In</string>
+    <string name="crash_test">Crash test</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="delete">Delete</string>
+    <string name="address1">Address 1</string>
+    <string name="address2">Address 2</string>
+    <string name="city">City</string>
+    <string name="country_sub">Province / State</string>
+    <string name="postal">Postal Code</string>
+    <string name="country">Country</string>
+    <string name="firstName">First name</string>
+    <string name="lastName">Last name</string>
+    <string name="companyName">Company name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+</resources>

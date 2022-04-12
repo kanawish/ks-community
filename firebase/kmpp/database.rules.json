@@ -1,0 +1,69 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+    "userProfile": {
+      "$userId": {
+        ".read": "auth != null && $userId === auth.uid",
+        ".write": "auth != null && $userId === auth.uid",
+        "locale": {
+          ".validate": "newData.isString()"
+        },
+        "$anyOther": {
+          ".validate": false
+        }
+      }
+    },
+    "userContact": {
+      "$userId": {
+        ".read": "auth != null && $userId === auth.uid",
+        ".write": "auth != null && $userId === auth.uid",
+        "companyName": {
+          ".validate": "newData.isString()"
+        },
+        "firstName": {
+          ".validate": "newData.isString()"
+        },
+        "lastName": {
+          ".validate": "newData.isString()"
+        },
+        "email": {
+          ".validate": "newData.isString()"
+        },
+        "phone": {
+          ".validate": "newData.isString()"
+        },
+        "$anyOther": {
+          ".validate": false
+        }
+      }
+    },
+    "userAddress": {
+      "$userId": {
+        ".read": "auth != null && $userId === auth.uid",
+        ".write": "auth != null && $userId === auth.uid",
+        "address1": {
+          ".validate": "newData.isString()"
+        },
+        "address2": {
+          ".validate": "newData.isString()"
+        },
+        "city": {
+          ".validate": "newData.isString()"
+        },
+        "countrySub": {
+          ".validate": "newData.isString()"
+        },
+        "postalCode": {
+          ".validate": "newData.isString()"
+        },
+        "country": {
+          ".validate": "newData.isString()"
+        },
+        "$anyOther": {
+          ".validate": false
+        }
+      }
+    }
+  }
+}
